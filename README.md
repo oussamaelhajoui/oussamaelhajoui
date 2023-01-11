@@ -80,102 +80,10 @@
 ## ⭐ My Projects
 
 <details>
-  <summary><b>🛡️ &nbsp;Discord</b></summary>
+  <summary><b>🛡️ &nbsp;Angular</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/oussamaelhajoui/coding.global-bot">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=oussamaelhajoui&repo=coding.global-bot&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-    <a href="https://github.com/oussamaelhajoui/coding.global-web">
-     <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=oussamaelhajoui&repo=coding.global-web&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/oussamaelhajoui/DiscordCustomUrlSniper">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=oussamaelhajoui&repo=DiscordCustomUrlSniper&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-    <a href="https://github.com/oussamaelhajoui/DisboardBumpBot">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=oussamaelhajoui&repo=DisboardBumpBot&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-</p>
-</details>
-
-<details>
-  <summary><b>🌐 &nbsp;Websites</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/oussamaelhajoui/echat">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=oussamaelhajoui&repo=echat&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-    <a href="https://github.com/oussamaelhajoui/palarm">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=oussamaelhajoui&repo=palarm&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/oussamaelhajoui/clips">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=oussamaelhajoui&repo=clips&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-    <a href="https://github.com/oussamaelhajoui/spring-boot-ecommerce">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=oussamaelhajoui&repo=spring-boot-ecommerce&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/oussamaelhajoui/cashclock">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=oussamaelhajoui&repo=cashclock&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
+    - 🔭 I’m currently working on [Angular Chat App](https://chat-app-1e977.web.app/main)
   </p>
 </details>
 
-<details>
-  <summary><b>⚙️ &nbsp;DevOps</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/oussamaelhajoui/traefik">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=oussamaelhajoui&repo=traefik&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-    <a href="https://github.com/oussamaelhajoui/portainer">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=oussamaelhajoui&repo=portainer&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/oussamaelhajoui/self-hosted-runner">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=oussamaelhajoui&repo=self-hosted-runner&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-  </p>
-</details>
-
-<details>
-  <summary><b>📱 &nbsp;Mobile</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/oussamaelhajoui/world-of-gaming">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=oussamaelhajoui&repo=world-of-gaming&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-    <a href="https://github.com/oussamaelhajoui/MealsToGo">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=oussamaelhajoui&repo=MealsToGo&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-  </p>
-</details>
-
-<details>
-  <summary><b>🖥️ &nbsp;Desktop</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/oussamaelhajoui/clippy">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=oussamaelhajoui&repo=clippy&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-    <a href="https://github.com/oussamaelhajoui/ColorDetector">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=oussamaelhajoui&repo=ColorDetector&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-  </p>
-</details>
-
-<details>
-  <summary><b>💻 &nbsp;API</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/oussamaelhajoui/igdb-graphql">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=oussamaelhajoui&repo=igdb-graphql&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-  </p>
-</details>
