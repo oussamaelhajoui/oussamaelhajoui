@@ -79,11 +79,44 @@
 
 ## ⭐ My Projects
 
+
 <details>
   <summary><b>🛡️ &nbsp;Angular</b></summary>
   <br/>
   <p align="center">
-    - 🔭 I’m currently working on [Angular Chat App](https://chat-app-1e977.web.app/main)
+    - 🔭 I’m currently working on <a href="https://chat-app-1e977.web.app/main">Angular Chat App</a>
   </p>
 </details>
-
+<details>
+  <summary><b>🛡️ &nbsp;ReactJS</b></summary>
+  <br/>
+  <p align="center">
+    - 🔭 I’m currently working on <a href="https://chat-app-1e977.web.app/main">React Chat App</a>
+  </p>
+</details>
+<details>
+  <summary><b>🌐 &nbsp;Wordpress</b></summary>
+  <br/>
+  <p align="center">
+    - ✅ Worked on <a href="https://u-floor.nl">U-Floor</a>
+  </p>
+  <br/>
+  <p align="center">
+    - ✅ Worked on <a href="https://gymaddicted.nl">GymAddict</a>
+  </p>
+  <br/>
+  <p align="center">
+    - ✅ Worked on <a href="https://studio-statement.nl">Studio Statement</a>
+  </p>
+  <br/>
+  <p align="center">
+    - ✅ Worked on <a href="https://taxi-serviceeindhoven.nl">Taxi-service Eindhoven</a>
+  </p>
+</details>
+<details>
+  <summary><b>⌘ &nbsp;Custom Websites</b></summary>
+  <br/>
+  <p align="center">
+    - ✅ Worked on <a href="https://taxi-serviceeindhoven.nl">Taxi-service Eindhoven</a>
+  </p>
+</details>
