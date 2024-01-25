@@ -19,9 +19,11 @@
 ### Languages
 
 ![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
+![C#](https://custom-icon-badges.herokuapp.com/badge/csharp-black.svg?logo=java&logoColor=white&style=flat-square)
 ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
+![php](https://custom-icon-badges.herokuapp.com/badge/php-black.svg?logo=java&logoColor=white&style=flat-square)
 ![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
 
 ### Technologies & Frameworks
@@ -111,6 +113,10 @@
   <br/>
   <p align="center">
     - ✅ Worked on <a href="https://taxi-serviceeindhoven.nl">Taxi-service Eindhoven</a>
+  </p>
+  <br/>
+  <p align="center">
+    - ✅ Worked on <a href="https://amoris-fashion.nl">Amoris Fashionn</a>
   </p>
 </details>
 <details>
